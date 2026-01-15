@@ -612,7 +612,7 @@ We get the rules displayed in @tbl-sbrl-penguins-show.
 ```{r}
 #| label: sbrl-penguins-prepare
 #| results: hide
-#| eval: true
+#| eval: false 
 library("sbrl")
 library("arules")
 
